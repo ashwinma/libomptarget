@@ -12,7 +12,7 @@
 ##===----------------------------------------------------------------------===##
 
 #RTL_FOLDERS = $(wildcard */)
-RTL_FOLDERS = cuda ppc64 ppc64le x86_64 
+RTL_FOLDERS = cuda ppc64 ppc64le x86_64 hsa
 
 
 all:
